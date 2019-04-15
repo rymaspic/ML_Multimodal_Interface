@@ -1,9 +1,9 @@
 # ML_Multimodal_Interface
 
 Examples of how Machine Learning algorithms can be applied to multimodal interface recognition which is an important area of Human-Computer-Interaction.
-Modals including: 3D Gesture Recognition from Kinect, 2D&3D Face Recognition, Pen-based Stroke Recognition.
+Modals including: 3D **Gesture Recognition** from Kinect, 2D&3D **Face Recognition**, Pen-based **Stroke Recognition**.
 
-## Required Package
+## Recommended Packages and versions
 
 ```
 absl-py==0.1.10
